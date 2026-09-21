@@ -9,7 +9,7 @@ endobj
 <<
 /Type /Pages
 /Count 2
-/Kids [ 4 0 R 14 0 R ]
+/Kids [ 4 0 R 15 0 R ]
 >>
 endobj
 3 0 obj
@@ -20,17 +20,17 @@ endobj
 endobj
 4 0 obj
 <<
-/Annots [ 5 0 R 6 0 R ]
-/Contents 7 0 R
+/Annots [ 5 0 R 6 0 R 7 0 R ]
+/Contents 8 0 R
 /MediaBox [ 0 0 595.2756 841.8898 ]
 /Resources <<
 /Font <<
-/F1 8 0 R
-/F1-0 9 0 R
-/F2 10 0 R
-/F2-0 11 0 R
-/F3 12 0 R
-/F4 13 0 R
+/F1 9 0 R
+/F1-0 10 0 R
+/F2 11 0 R
+/F2-0 12 0 R
+/F3 13 0 R
+/F4 14 0 R
 >>
 /ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
@@ -49,7 +49,7 @@ endobj
 /URI (https\072\057\057www\056linkedin\056com\057in\057lina\055anaya\057)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 286.7568 737.6281 319.7508 750.0481 ]
+/Rect [ 266.4798 737.6281 299.4738 750.0481 ]
 /Subtype /Link
 /Type /Annot
 >>
@@ -62,14 +62,27 @@ endobj
 /URI (https\072\057\057scholar\056google\056com\057citations\077hl\075es\046view\137op\075list\137works\046user\0754VJuevsAAAAJ)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 326.0508 737.6281 382.2918 750.0481 ]
+/Rect [ 305.7738 737.6281 362.0148 750.0481 ]
 /Subtype /Link
 /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Length 8418
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057linama2593\056github\056io\057la\055profile\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 368.3148 737.6281 402.5688 750.0481 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Length 8496
 >>
 stream
 q
@@ -106,7 +119,7 @@ q
 1 0 0 1 1 -1 cm
 q
 .84375 w
-BT 1 0 0 1 0 8.273 Tm 160.9602 0 Td 12.42 TL .2 Tc /F2 9 Tf .266667 .266667 .266667 rg (Tarragona, Espa\361a | ) Tj .168627 .372549 .352941 rg (LinkedIn) Tj .266667 .266667 .266667 rg ( | ) Tj .168627 .372549 .352941 rg (Google Scholar) Tj T* -160.9602 0 Td ET
+BT 1 0 0 1 0 8.273 Tm 140.6832 0 Td 12.42 TL .2 Tc /F2 9 Tf .266667 .266667 .266667 rg (Tarragona, Espa\361a | ) Tj .168627 .372549 .352941 rg (LinkedIn) Tj .266667 .266667 .266667 rg ( | ) Tj .168627 .372549 .352941 rg (Google Scholar) Tj .266667 .266667 .266667 rg ( | ) Tj .168627 .372549 .352941 rg (Sitio web) Tj T* -140.6832 0 Td ET
 Q
 Q
 q
@@ -336,15 +349,6 @@ Q
 
 endstream
 endobj
-8 0 obj
-<<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
->>
-endobj
 9 0 obj
 <<
 /BaseFont /Helvetica
@@ -356,9 +360,9 @@ endobj
 endobj
 10 0 obj
 <<
-/BaseFont /Times-Roman
+/BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
-/Name /F2
+/Name /F1
 /Subtype /Type1
 /Type /Font
 >>
@@ -374,6 +378,15 @@ endobj
 endobj
 12 0 obj
 <<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
 /BaseFont /Times-Italic
 /Encoding /WinAnsiEncoding
 /Name /F3
@@ -381,7 +394,7 @@ endobj
 /Type /Font
 >>
 endobj
-13 0 obj
+14 0 obj
 <<
 /BaseFont /Times-Bold
 /Encoding /WinAnsiEncoding
@@ -390,19 +403,19 @@ endobj
 /Type /Font
 >>
 endobj
-14 0 obj
+15 0 obj
 <<
-/Annots [ 15 0 R 16 0 R 17 0 R 18 0 R ]
-/Contents 19 0 R
+/Annots [ 16 0 R 17 0 R 18 0 R 19 0 R ]
+/Contents 20 0 R
 /MediaBox [ 0 0 595.2756 841.8898 ]
 /Resources <<
 /Font <<
-/F1 8 0 R
-/F1-0 20 0 R
-/F2 10 0 R
-/F2-0 21 0 R
-/F3 12 0 R
-/F4 13 0 R
+/F1 9 0 R
+/F1-0 21 0 R
+/F2 11 0 R
+/F2-0 22 0 R
+/F3 13 0 R
+/F4 14 0 R
 >>
 /ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
@@ -413,7 +426,7 @@ endobj
 /Parent 2 0 R
 >>
 endobj
-15 0 obj
+16 0 obj
 <<
 /A <<
 /S /URI
@@ -426,7 +439,7 @@ endobj
 /Type /Annot
 >>
 endobj
-16 0 obj
+17 0 obj
 <<
 /A <<
 /S /URI
@@ -439,7 +452,7 @@ endobj
 /Type /Annot
 >>
 endobj
-17 0 obj
+18 0 obj
 <<
 /A <<
 /S /URI
@@ -452,7 +465,7 @@ endobj
 /Type /Annot
 >>
 endobj
-18 0 obj
+19 0 obj
 <<
 /A <<
 /S /URI
@@ -465,7 +478,7 @@ endobj
 /Type /Annot
 >>
 endobj
-19 0 obj
+20 0 obj
 <<
 /Length 9555
 >>
@@ -845,7 +858,7 @@ Q
 
 endstream
 endobj
-20 0 obj
+21 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -854,7 +867,7 @@ endobj
 /Type /Font
 >>
 endobj
-21 0 obj
+22 0 obj
 <<
 /BaseFont /Times-Roman
 /Encoding /WinAnsiEncoding
@@ -864,35 +877,36 @@ endobj
 >>
 endobj
 xref
-0 22
+0 23
 0000000000 65535 f 
 0000000015 00000 n 
 0000000054 00000 n 
 0000000120 00000 n 
 0000000169 00000 n 
-0000000460 00000 n 
-0000000678 00000 n 
-0000000951 00000 n 
-0000009421 00000 n 
-0000009528 00000 n 
-0000009635 00000 n 
-0000009745 00000 n 
-0000009855 00000 n 
-0000009966 00000 n 
-0000010075 00000 n 
-0000010385 00000 n 
-0000010597 00000 n 
-0000010808 00000 n 
-0000011038 00000 n 
-0000011263 00000 n 
-0000020871 00000 n 
-0000020979 00000 n 
+0000000467 00000 n 
+0000000685 00000 n 
+0000000958 00000 n 
+0000001174 00000 n 
+0000009722 00000 n 
+0000009829 00000 n 
+0000009937 00000 n 
+0000010047 00000 n 
+0000010157 00000 n 
+0000010268 00000 n 
+0000010377 00000 n 
+0000010687 00000 n 
+0000010899 00000 n 
+0000011110 00000 n 
+0000011340 00000 n 
+0000011565 00000 n 
+0000021173 00000 n 
+0000021281 00000 n 
 trailer
 <<
-/Size 22
+/Size 23
 /Root 3 0 R
 /Info 1 0 R
 >>
 startxref
-21089
+21391
 %%EOF
