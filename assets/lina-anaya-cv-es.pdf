@@ -82,7 +82,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 8496
+/Length 8536
 >>
 stream
 q
@@ -141,7 +141,7 @@ n 0 0 m 493.2283 0 l S
 Q
 Q
 q
-1 0 0 1 51.02362 595.5781 cm
+1 0 0 1 51.02362 581.3641 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -152,14 +152,15 @@ q
 .965625 w
 .965625 w
 .965625 w
-BT 1 0 0 1 0 94.4631 Tm 14.214 TL /F2 10.3 Tf .101961 .101961 .101961 rg (Cient\355fica de datos con dos a\361os de experiencia aplicada en machine learning, desarrollando pipelines de detecci\363n de) Tj T* (anomal\355as, clasificaci\363n de amenazas y automatizaci\363n con LLMs en producci\363n para una startup de ciberseguridad,) Tj T* (sobre la base de un doctorado en econometr\355a aplicada e inferencia causal y seis a\361os m\341s de investigaci\363n) Tj T* (cuantitativa. Desarroll\351 y desplegu\351 pipelines de ML en la nube sobre Google Vertex AI alcanzando una precisi\363n del) Tj T* (98\22699%, dise\361\351 un m\351todo estad\355stico de validaci\363n de modelos reutilizado en seis pipelines de producci\363n, y constru\355) Tj T* (un pipeline de LLM que redujo el tiempo de conversi\363n de normativa a reglas de seguridad de meses a d\355as. C\363moda) Tj T* (liderando un problema de principio a fin: definirlo, construirlo y presentar resultados a perfiles t\351cnicos y no t\351cnicos.) Tj T* ET
+.965625 w
+BT 1 0 0 1 0 108.6771 Tm 14.214 TL /F2 10.3 Tf .101961 .101961 .101961 rg (Cient\355fica de datos con dos a\361os de experiencia aplicada en machine learning, desarrollando pipelines de detecci\363n de) Tj T* (anomal\355as, clasificaci\363n de amenazas y automatizaci\363n con LLMs en producci\363n para una startup de ciberseguridad,) Tj T* (sobre la base de un doctorado fuertemente centrado en econometr\355a aplicada e inferencia causal y seis a\361os m\341s de) Tj T* (investigaci\363n cuantitativa. Desarroll\351 y desplegu\351 pipelines de ML en la nube sobre Google Vertex AI alcanzando una) Tj T* (precisi\363n del 98\22699%, dise\361\351 un m\351todo estad\355stico de validaci\363n de modelos reutilizado en seis pipelines de) Tj T* (producci\363n, y constru\355 un pipeline de LLM que redujo el tiempo de conversi\363n de normativa a reglas de seguridad de) Tj T* (meses a d\355as. C\363moda liderando un problema de principio a fin: definirlo, construirlo y presentar resultados a perfiles) Tj T* (t\351cnicos y no t\351cnicos.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 51.02362 566.1741 cm
+1 0 0 1 51.02362 551.9601 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -174,7 +175,7 @@ n 0 0 m 493.2283 0 l S
 Q
 Q
 q
-1 0 0 1 51.02362 445.4621 cm
+1 0 0 1 51.02362 431.2481 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -193,7 +194,7 @@ q
 Q
 Q
 q
-1 0 0 1 51.02362 416.0581 cm
+1 0 0 1 51.02362 401.8441 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -208,7 +209,7 @@ n 0 0 m 493.2283 0 l S
 Q
 Q
 q
-1 0 0 1 51.02362 392.4301 cm
+1 0 0 1 51.02362 378.2161 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -220,7 +221,7 @@ q
 Q
 Q
 q
-1 0 0 1 51.02362 376.4921 cm
+1 0 0 1 51.02362 362.2781 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -232,7 +233,7 @@ q
 Q
 Q
 q
-1 0 0 1 51.02362 314.6361 cm
+1 0 0 1 51.02362 300.4221 cm
 q
 1 0 0 1 15 -1 cm
 q
@@ -248,7 +249,7 @@ q
 Q
 Q
 q
-1 0 0 1 51.02362 266.9941 cm
+1 0 0 1 51.02362 252.7801 cm
 q
 1 0 0 1 15 -1 cm
 q
@@ -263,7 +264,7 @@ q
 Q
 Q
 q
-1 0 0 1 51.02362 219.3521 cm
+1 0 0 1 51.02362 205.1381 cm
 q
 1 0 0 1 15 -1 cm
 q
@@ -278,7 +279,7 @@ q
 Q
 Q
 q
-1 0 0 1 51.02362 171.7101 cm
+1 0 0 1 51.02362 157.4961 cm
 q
 1 0 0 1 15 -1 cm
 q
@@ -293,7 +294,7 @@ q
 Q
 Q
 q
-1 0 0 1 51.02362 138.2821 cm
+1 0 0 1 51.02362 124.0681 cm
 q
 1 0 0 1 15 -1 cm
 q
@@ -307,7 +308,7 @@ q
 Q
 Q
 q
-1 0 0 1 51.02362 104.8541 cm
+1 0 0 1 51.02362 90.64008 cm
 q
 1 0 0 1 15 -1 cm
 q
@@ -321,7 +322,7 @@ q
 Q
 Q
 q
-1 0 0 1 51.02362 99.85408 cm
+1 0 0 1 51.02362 85.64008 cm
 Q
  
 
@@ -887,20 +888,20 @@ xref
 0000000685 00000 n 
 0000000958 00000 n 
 0000001174 00000 n 
-0000009722 00000 n 
-0000009829 00000 n 
-0000009937 00000 n 
-0000010047 00000 n 
-0000010157 00000 n 
-0000010268 00000 n 
-0000010377 00000 n 
-0000010687 00000 n 
-0000010899 00000 n 
-0000011110 00000 n 
-0000011340 00000 n 
-0000011565 00000 n 
-0000021173 00000 n 
-0000021281 00000 n 
+0000009762 00000 n 
+0000009869 00000 n 
+0000009977 00000 n 
+0000010087 00000 n 
+0000010197 00000 n 
+0000010308 00000 n 
+0000010417 00000 n 
+0000010727 00000 n 
+0000010939 00000 n 
+0000011150 00000 n 
+0000011380 00000 n 
+0000011605 00000 n 
+0000021213 00000 n 
+0000021321 00000 n 
 trailer
 <<
 /Size 23
@@ -908,5 +909,5 @@ trailer
 /Info 1 0 R
 >>
 startxref
-21391
+21431
 %%EOF
