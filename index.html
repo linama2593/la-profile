@@ -1,0 +1,300 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Lina Anaya — Data Scientist</title>
+<meta name="description" content="Data Scientist with two years of applied machine learning experience in cybersecurity, on a foundation of a PhD in applied econometrics and causal inference." />
+<meta property="og:title" content="Lina Anaya — Data Scientist" />
+<meta property="og:description" content="ML pipelines for cybersecurity, causal inference research, and six years of quantitative research behind it." />
+<meta property="og:type" content="website" />
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/style.css" />
+<script>document.documentElement.classList.add("js");</script>
+</head>
+<body>
+
+<div class="progress" aria-hidden="true"></div>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="#home" class="nav-mark">Lina<span>.</span>Anaya</a>
+    <button class="nav-toggle" aria-label="Toggle navigation">&#9776;</button>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#research">Research</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="assets/lina-anaya-cv-en.pdf" class="nav-cv" target="_blank" rel="noopener">CV</a></li>
+    </ul>
+  </div>
+</nav>
+
+<section class="hero" id="home">
+  <canvas class="hero-canvas" aria-hidden="true"></canvas>
+  <div class="wrap hero-grid">
+    <div class="hero-text">
+      <span class="eyebrow">Data Scientist · Tarragona, Spain</span>
+      <h1>Lina Anaya</h1>
+      <p class="tagline">Two years building production anomaly-detection, threat-classification, and LLM-automation pipelines for a cybersecurity startup, on a foundation of a PhD in applied econometrics and causal inference and six years of quantitative research.</p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="assets/lina-anaya-cv-en.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
+        <a class="btn btn-ghost" href="#contact" data-mail>Email me</a>
+        <a class="btn btn-ghost" href="https://www.linkedin.com/in/lina-anaya/" target="_blank" rel="noopener">LinkedIn</a>
+        <a class="btn btn-ghost" href="https://scholar.google.com/citations?hl=es&view_op=list_works&user=4VJuevsAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+      </div>
+    </div>
+    <!-- Drop a photo at assets/profile.jpg (square, ~600px) and it replaces the monogram automatically. -->
+    <div class="portrait">
+      <span class="portrait-mono" aria-hidden="true">LA</span>
+      <img src="assets/profile.jpg" alt="Portrait of Lina Anaya" width="600" height="600" onerror="this.remove()" />
+    </div>
+  </div>
+</section>
+
+<section class="stats" aria-label="Highlights">
+  <div class="wrap stats-grid">
+    <div class="stat"><span class="stat-num" data-count="6">6</span><span class="stat-label">ML detection pipelines built and validated</span></div>
+    <div class="stat"><span class="stat-num" data-count="1" data-prefix="&lt;" data-suffix="%">&lt;1%</span><span class="stat-label">false-positive rate on internal test data</span></div>
+    <div class="stat"><span class="stat-num" data-count="4">4</span><span class="stat-label">peer-reviewed journal articles</span></div>
+    <div class="stat"><span class="stat-num" data-count="100" data-suffix="+">100+</span><span class="stat-label">entrepreneurs trained in data-driven decisions</span></div>
+  </div>
+</section>
+
+<section id="about">
+  <div class="wrap about">
+    <span class="eyebrow">About</span>
+    <p>I'm a data scientist with two years of applied machine learning experience, most recently as the sole data scientist at Periphery Security, a cybersecurity startup, where I built production anomaly-detection and threat-classification pipelines and an LLM-orchestrated compliance automation tool. Before that I spent six years in academic research, first as a PhD student and then as a postdoctoral researcher, working on causal inference and applied econometrics in education and public health policy.</p>
+    <p>I like owning a problem end to end: framing the question, building the pipeline or model, and then explaining the result to whoever needs to act on it, whether that's an engineering team, a CEO, or a room of civil servants. That habit came from research, where a result only matters once someone outside your own head understands why it's true, and it carried straight over into industry.</p>
+  </div>
+</section>
+
+<section id="experience">
+  <div class="wrap">
+    <span class="eyebrow">Career</span>
+    <h2 class="section-title">Professional Experience</h2>
+    <div class="timeline">
+
+      <div class="role-block">
+        <div class="role-header">
+          <span class="role-title">Data Scientist</span>
+          <span class="role-dates">Mar 2024 – Jun 2026</span>
+        </div>
+        <div class="role-org">Periphery Security (formerly Qomodo) — United Kingdom, remote</div>
+        <ul>
+          <li>Built and validated six machine learning pipelines for detecting anomalous and malicious device network/process activity, solving the lack of labelled attack data with synthetic injection, public-dataset fusion, and honeypot-traffic techniques; reached accuracy in the high 90s with a false-positive rate below 1% on internal test data.</li>
+          <li>Designed a statistical model-deployment gate, hypothesis testing combined with bootstrap confidence intervals, reused across every detection pipeline and deployed to Google Cloud Vertex AI endpoints.</li>
+          <li>Built an internal LLM-orchestrated pipeline (Prefect, LiteLLM/Instructor, FastAPI) that extracts compliance controls from regulations and drafts matching audit rules, cutting turnaround from months to days; diagnosed and fixed a production bug in its review workflow.</li>
+          <li>Designed a device cybersecurity risk-scoring engine spanning three regulatory frameworks (NIST SP 800-53, NIST SP 800-171, ISA/IEC 62443), with a CVE risk formula validated by a five-million-row Monte Carlo simulation.</li>
+          <li>Fine-tuned and quantised small language models (LoRA, GGUF) into an offline security-log triage assistant, evaluated with a custom ROUGE/BLEU/METEOR/BERTScore harness.</li>
+          <li>Coordinated deployment formats with the cloud and embedded engineering team as the company's sole data scientist, presenting results company-wide, including to the CEO, CFO, and sales team.</li>
+        </ul>
+      </div>
+
+      <div class="role-block">
+        <div class="role-header">
+          <span class="role-title">Founder</span>
+          <span class="role-dates">Jan 2023 – Mar 2024</span>
+        </div>
+        <div class="role-org">Ekology DataConsulting — Spain</div>
+        <ul>
+          <li>Founded a data-literacy consultancy for small business owners, delivering personalised training and building an Instagram channel to share data-driven decision-making content; partnered with Escuela de Emprendimiento E3 and the Colombian Consulate to deliver a free data-decision-making course reaching over 100 entrepreneurs across Catalonia and Andorra.</li>
+        </ul>
+      </div>
+
+      <div class="role-block">
+        <div class="role-header">
+          <span class="role-title">Postdoctoral Research Associate, Data Scientist</span>
+          <span class="role-dates">May 2021 – Sept 2022</span>
+        </div>
+        <div class="role-org">University of Leeds and University of Bradford — United Kingdom, remote</div>
+        <ul>
+          <li>Designed a difference-in-differences quasi-experimental model estimating the causal impact of the UK's first COVID-19 lockdown on mental health, finding effects equivalent to 60% of the impact of unemployment, with a 50% decline for people in overcrowded housing and disproportionate effects on women and ethnic minorities.</li>
+        </ul>
+      </div>
+
+      <div class="role-block">
+        <div class="role-header">
+          <span class="role-title">Data Science Graduate Research Assistant</span>
+          <span class="role-dates">Aug 2017 – May 2021</span>
+        </div>
+        <div class="role-org">University of Arkansas — USA, remote/hybrid</div>
+        <ul>
+          <li>Used linear regression and panel-data models on PISA and university datasets to quantify gender gaps in maths/STEM outcomes, finding highly skilled women 21–24% less likely to major in STEM and effort differences explaining up to 40% of the science achievement gap.</li>
+          <li>Analysed PISA 2009–2015 data with a random-effects model to show that difficulty-first question ordering increased exam dropout and reduced correct answers, informing exam-design recommendations.</li>
+          <li>Taught as a Teaching Assistant in Statistics, Calculus, and Econometrics (Aug 2018 – May 2021), supporting college and PhD-level students with questions and problem-set feedback.</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section id="skills">
+  <div class="wrap">
+    <span class="eyebrow">Toolkit</span>
+    <h2 class="section-title">Skills</h2>
+    <div class="skills-grid">
+
+      <div class="skill-group">
+        <h3>Programming &amp; Data</h3>
+        <div class="pill-row">
+          <span class="pill">Python</span><span class="pill">SQL</span><span class="pill">Polars</span><span class="pill">Pandas</span><span class="pill">NumPy</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>Machine Learning</h3>
+        <div class="pill-row">
+          <span class="pill">Scikit-learn</span><span class="pill">YDF (GBT, Isolation Forest)</span><span class="pill">TensorFlow / Keras</span><span class="pill">LoRA fine-tuning (Unsloth, PEFT, TRL)</span><span class="pill">Hyperparameter optimisation</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>Statistics &amp; Causal Inference</h3>
+        <div class="pill-row">
+          <span class="pill">Hypothesis testing</span><span class="pill">Bootstrap confidence intervals</span><span class="pill">Monte Carlo simulation</span><span class="pill">Difference-in-differences</span><span class="pill">RCTs / quasi-experimental design</span><span class="pill">Econometrics</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>LLM &amp; GenAI</h3>
+        <div class="pill-row">
+          <span class="pill">LiteLLM</span><span class="pill">Instructor</span><span class="pill">Retrieval-augmented generation</span><span class="pill">Prompt engineering</span><span class="pill">GGUF quantisation (llama.cpp)</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>Cloud &amp; MLOps</h3>
+        <div class="pill-row">
+          <span class="pill">GCP (Vertex AI, BigQuery, Cloud Storage)</span><span class="pill">Kubeflow Pipelines</span><span class="pill">Docker</span><span class="pill">GitHub Actions CI/CD</span><span class="pill">Prefect</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>Software Engineering</h3>
+        <div class="pill-row">
+          <span class="pill">FastAPI</span><span class="pill">Pydantic</span><span class="pill">SQLAlchemy / Alembic</span><span class="pill">pytest</span><span class="pill">Git</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>Languages</h3>
+        <div class="pill-row">
+          <span class="pill">Spanish (native)</span><span class="pill">English (C2)</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section id="education">
+  <div class="wrap">
+    <span class="eyebrow">Academic Foundation</span>
+    <h2 class="section-title">Education</h2>
+
+    <div class="edu-card">
+      <div class="edu-degree">PhD, Education Economics (Education Policy)</div>
+      <div class="edu-org">University of Arkansas — Fayetteville, USA</div>
+      <div class="edu-meta">May 2021 · Doctoral Academy Fellowship &amp; Outstanding Doctoral Student Award; conference fellowships from the Spanish Economic Association (2019) and EERA (2021)</div>
+    </div>
+
+    <div class="edu-card">
+      <div class="edu-degree">Data Science &amp; Machine Learning</div>
+      <div class="edu-org">4Geeks Academy — Spain</div>
+      <div class="edu-meta">Feb 2024</div>
+    </div>
+
+    <div class="edu-card">
+      <div class="edu-degree">BA, Economics and International Business</div>
+      <div class="edu-org">ICESI University — Cali, Colombia</div>
+      <div class="edu-meta">Aug 2015 · Dean's List (top 10%, 8 of 9 semesters); merit scholarship</div>
+    </div>
+
+  </div>
+</section>
+
+<section id="research">
+  <div class="wrap">
+    <span class="eyebrow">Deeper Background</span>
+    <h2 class="section-title">Research &amp; Academic Background</h2>
+
+    <div class="research-sub">
+      <h3>Published Research Articles</h3>
+      <ul class="pub-list">
+        <li><a href="https://doi.org/10.1093/oep/gpad018" target="_blank" rel="noopener">Anaya, L., Zamarro, G. (2023). The role of student effort on performance in PISA: Revisiting the gender gap in achievement.</a> Oxford Economic Papers.</li>
+        <li><a href="https://doi.org/10.1111/ecin.13181" target="_blank" rel="noopener">Anaya, L., Howley, P., Waqas, M., Yalonetzky, G. (2023). Locked down in distress: a causal estimation of the mental-health fallout from the COVID-19 pandemic in the UK.</a> Economic Inquiry.</li>
+        <li><a href="https://doi.org/10.1016/j.econedurev.2022.102293" target="_blank" rel="noopener">Anaya, L., Iriberri, N., Rey-Biel, P., Zamarro, G. (2022). Understanding performance in test taking: The role of question difficulty order.</a> Economics of Education Review.</li>
+        <li><a href="https://doi.org/10.1080/09645292.2021.1974344" target="_blank" rel="noopener">Anaya, L., Stafford, F., Zamarro, G. (2021). Gender gaps in math performance, perceived mathematical ability and college STEM education: the role of parental occupation.</a> Education Economics.</li>
+      </ul>
+    </div>
+
+    <div class="research-sub">
+      <h3>Conference Presentations &amp; Talks</h3>
+      <p class="research-note">8 selected/invited presentations, 2018–2023, including AERA (Canada), AEFP (USA × 3), the 44th SAEe Symposium (Spain), EERA Emerging Researchers (Switzerland), Escuela de Emprendimiento E3 &amp; the Colombian Consulate (Spain), and the Arkansas Environmental Education Association (USA).</p>
+    </div>
+
+    <div class="research-sub">
+      <h3>Teaching Experience</h3>
+      <ul class="plain-list">
+        <li>Teaching Assistant, Quantitative Analytical Techniques for Education Policy – Econometrics (PhD level) — Prof. Gema Zamarro, University of Arkansas, Aug–Dec 2020</li>
+        <li>Co-instructor, Mathematics Boot Camp (PhD level) — Dr. Jonathan N. Mills, University of Arkansas, Aug 2018</li>
+        <li>Teaching Assistant, Investment Theory (undergraduate) — Prof. Guillermo Buenaventura, Universidad Icesi, Jul–Nov 2014</li>
+        <li>Teaching Assistant, Macroeconomics II Theory (undergraduate) — Prof. Carlos G. Gonzalez, Universidad Icesi, Jul–Nov 2013</li>
+        <li>Organiser, Graduate Students in Economics of Education Zoom Seminars (GEEZ), University of Arkansas</li>
+      </ul>
+    </div>
+
+    <div class="research-sub">
+      <h3>Peer Review</h3>
+      <p class="research-note">Referee for: Journal of School Choice International Research and Reform, Applied Economic Analysis, American Educational Research Journal, Education Economics Journal.</p>
+    </div>
+
+    <div class="research-sub">
+      <h3>Awards &amp; Honors</h3>
+      <ul class="plain-list">
+        <li>Outstanding Doctoral Fellow, College of Education and Health Professions, University of Arkansas, Mar 2020</li>
+        <li>Conference Bursary Winner, European Educational Research Association, 2020 (presented Sept 2021)</li>
+        <li>Travel Grant, Graduate Professional Student Congress, University of Arkansas, Mar 2019 &amp; Mar 2020</li>
+        <li>Doctoral Academy Fellowship, University of Arkansas, 2017</li>
+        <li>Dean's List (top 10%), Universidad Icesi, 8 of 9 semesters, 2010–2015</li>
+        <li>Merit Scholarship, Universidad Icesi, 2010</li>
+      </ul>
+    </div>
+
+    <div class="research-sub">
+      <h3>Media Coverage</h3>
+      <p class="research-note media-link"><a href="https://www.marketwatch.com/story/boys-and-girls-have-an-equal-aptitude-for-math-so-why-are-there-are-so-few-women-in-higher-paying-stem-jobs-2019-11-12" target="_blank" rel="noopener">"Boys and girls have an equal aptitude for math — so why are there so few women in higher-paying STEM jobs?"</a> — MarketWatch, November 2019.</p>
+    </div>
+
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <div class="wrap">
+    <span class="eyebrow">Get in touch</span>
+    <h2 class="section-title">Contact</h2>
+    <p>Open to full-time, remote data science and ML roles across European time zones. Cybersecurity, fraud detection, and other security-adjacent work is a particular interest, along with applied ML and GenAI roles more broadly.</p>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="#contact" data-mail>Email me</a>
+      <a class="btn btn-ghost" href="https://www.linkedin.com/in/lina-anaya/" target="_blank" rel="noopener">LinkedIn</a>
+      <a class="btn btn-ghost" href="https://scholar.google.com/citations?hl=es&view_op=list_works&user=4VJuevsAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+      <a class="btn btn-ghost" href="assets/lina-anaya-cv-en.pdf" target="_blank" rel="noopener">CV (English)</a>
+      <a class="btn btn-ghost" href="assets/lina-anaya-cv-es.pdf" target="_blank" rel="noopener">CV (Español)</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  Lina Anaya · Tarragona, Spain
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
